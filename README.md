@@ -280,6 +280,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <p align="center">Made with ❤️ using Next.js & MongoDB</p>
 #use of pastebian lite video
-<video width="320" height="240" controls>
-  <source src="https://github.com/shyam-dhamankar/pastebian_lite/blob/main/pastebian_lite%20(1).mp4" type="video/mp4">
+
+  <video src="https://github.com/shyam-dhamankar/pastebian_lite/blob/main/pastebian_lite%20(1).mp4" type="video/mp4" controls>
 </video>

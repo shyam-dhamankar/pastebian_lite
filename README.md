@@ -268,7 +268,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Rohit**
+**Shyam**
 
 ## 🙏 Acknowledgments
 
@@ -281,5 +281,5 @@ This project is open source and available under the [MIT License](LICENSE).
 <p align="center">Made with ❤️ using Next.js & MongoDB</p>
 #use of pastebian lite video
 
-  <video src="https://github.com/shyam-dhamankar/pastebian_lite/blob/main/pastebian_lite%20(1).mp4" type="video/mp4" controls>
+  <video src="https://github.com/shyam-dhamankar/pastebian_lite/blob/main/pastebian_lite(1).mp4" type="video/mp4" controls>
 </video>
